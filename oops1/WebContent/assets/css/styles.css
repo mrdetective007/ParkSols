@@ -1,0 +1,124 @@
+@charset "ISO-8859-1";
+
+.container {
+    max-width: 960px;
+    text-align: center;
+    margin: 30px;
+    background-color: black;
+    border: 1px solid black;
+    opacity: 0.8;
+    margin-left: auto;
+    margin-right: auto;
+  }
+   .container1 {
+    max-width: 500px;
+    text-align: center;
+    margin: 30px;
+    background-color: black;
+    border: 1px solid black;
+    opacity: 0.9;
+    margin-left: auto;
+    margin-right: auto;
+  }
+    .container2 {
+    max-width: 500px;
+    text-align: center;
+    margin: 30px;
+    background-color: black;
+    border: 1px solid black;
+    opacity: 0.8;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .container3{
+    max-width: 960px;
+    text-align: center;
+    margin: 30px;
+    background-color: black;
+    border: 1px solid black;
+    opacity: 0.85;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .border-top { 
+  border-top: 1px solid #e5e5e5; 
+  }
+  .border-bottom {
+   border-bottom: 1px solid #e5e5e5; 
+   }
+  .border-top-gray {
+   border-top-color: #adb5bd; 
+   }
+  
+  .box-shadow { 
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); 
+  }
+  
+  .lh-condensed { line-height: 1.25; }
+
+  .lead{
+      color:rgba(255, 255, 255, 0.534);
+  }
+
+  .col-md-6{
+color:white;
+  }
+  .heading{
+      color:rgb(233, 223, 223);
+  }
+  .btn  {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50; /* Green */
+  }
+ .login-link{
+ text-align: center;
+ font-size: 26px;
+ max-width: 500px;
+ display: inline-block;
+ width: 180px;
+    }
+ .registered{
+ color:blue;
+ }
+ .login-logo {
+  text-align: center;
+  margin-bottom: 15px; }
+  .login-logo span {
+    color: #ffffff;
+    font-size: 24px; }
+
+.login-content {
+  max-width: 540px;
+  margin: 8vh auto; }
+
+.login-form {
+  background: #ffffff;
+  padding: 30px 30px 20px;
+  border-radius: 2px; }
+
+.login-form h4 {
+  color: #878787;
+  text-align: center;
+  margin-bottom: 50px; }
+
+.login-form .checkbox {
+  color: #878787; }
+
+.login-form .checkbox label {
+  text-transform: none; }
+
+.login-form .btn {
+  width: 100%;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 15px;
+  border: 0px; }
+
+.login-form label {
+  color: #878787;
+  text-transform: uppercase; }
+
+.login-form label a {
+  color: #ff2e44; }
+ 
